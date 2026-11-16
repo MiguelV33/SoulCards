@@ -1,0 +1,2 @@
+# SoulCards
+Cards game , strategi 
